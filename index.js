@@ -3,4 +3,4 @@ console.log("working");
 console.log("edited");
 console.log("Hi there");
 console.log("Another two");
-console.log("Another linee");
+console.log("Another line");
